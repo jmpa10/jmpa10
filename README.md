@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **all kinds of technologies.**
 
-- 🤝 I’m looking for help with **my software projects**
+- 🤝 I’m looking forward to helping people with **my software projects**
 
 - 📫 How to reach me **juanmanuel.porrero@alu.uclm.es**
 
-- 📄 Know about my experiences [www.juanmanuelpa.com](www.juanmanuelpa.com)
+- 📄 Know about my experiences, personal information and CV at [www.juanmanuelpa.com](www.juanmanuelpa.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
