@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Porrero Almansa</h1>
 <h3 align="center">A Computer Engineering student in Universidad de Castilla-La Mancha.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanma1501&label=Profile%20views&color=10f455&style=flat" alt="juanma1501" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanma1501&label=Profile%20views&color=4107F5&style=flat" alt="juanma1501" /> </p>
 
 - 🌱 I’m currently learning **all kinds of technologies.**
 
