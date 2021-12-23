@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juanmanuel.porrero@alu.uclm.es**
 
-- 📄 Know about my experiences, personal information and CV at [www.juanmanuelpa.com](www.juanmanuelpa.com)
+- 📄 Know about my experiences, personal information and CV at <a href="https://juanmanuelpa.com" target="blank"> www.juanmanuelpa.com </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
